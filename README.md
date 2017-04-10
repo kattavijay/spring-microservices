@@ -10,6 +10,6 @@ Frameworks used :
 - Mybatis
 - Maven
 
-It's an version of the code , will keep updating in periodical manner .
+It's an initial version of the code , will keep updating in periodical manner .
 
 
