@@ -40,10 +40,10 @@ public class SwaggerConfig {
 				"User Data ",
 				"User data Interface",
 				"1.0",
-				"http://oneconfluence.verizon.com/pages/viewpage.action?pageId=14748448",
-				"vijayakumar.katta@verizon.com",
+				"http://javamix.net/blog",
+				"katta.vijayk@gmail.com",
 				"Licence",
-				"http://oneconfluence.verizon.com/pages/viewpage.action?pageId=14748448"
+				"http://javamix.net/blog"
 				);
 	}
 
