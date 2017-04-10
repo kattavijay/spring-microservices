@@ -1,6 +1,15 @@
 # spring-microservices
 
 
-Basic application for springboot application with microservices with swagger-ui and mybatis .
+This application is intended for beginners in springboot microservice development.
 
-will keep updating this page.
+Frameworks used :
+
+- Springboot
+- Swagger-ui 
+- Mybatis
+- Maven
+
+It's an version of the code , will keep updating in periodical manner .
+
+
