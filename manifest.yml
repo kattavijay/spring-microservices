@@ -2,5 +2,6 @@
 applications:
 - name: demo
   memory: 128M
+  buildpack: java_buildpack
   instances: 1
 random-route: true
